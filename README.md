@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h1 align="center">Hi 👋, I'm Rahul Pathak</h1>
 <h3 align="center">Open source & Blockchain enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2911rahulpathak&label=Profile%20views&color=0e75b6&style=flat" alt="2911rahulpathak" /> </p>
