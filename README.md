@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2911rahulpathak&label=Profile%20views&color=0e75b6&style=flat" alt="2911rahulpathak" /> </p>
 
-- 🔭 I’m currently working on **Decentralized Agricultural Marketplace**
+- 🔭 I’m currently building a **Decentralized Agricultural Marketplace**
 
-- 🌱 I’m currently learning **Hyperledger Fabric**
+- 🌱 I have a deep interest in blockchain technology and its potential to revolutionize industries and bring about new opportunities. I'm constantly learning and experimenting with new technologies related to blockchain and decentralized systems.
 
 - 📝 I regularly write articles on [https://rahulpathak.hashnode.dev/](https://rahulpathak.hashnode.dev/)
 
